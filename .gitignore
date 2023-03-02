@@ -1,0 +1,17 @@
+
+# rust
+/target
+Cargo.lock
+
+
+# vscodes
+.vscode/
+
+# misc
+/.idea/
+*.iml
+*.swp
+*.swo
+
+# mac
+.DS_Store
